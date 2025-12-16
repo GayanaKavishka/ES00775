@@ -1,0 +1,8 @@
+# ES00775
+There is about a simple REST API .
+localhost:8081
+GET/welcome
+GET/greet/name
+GET/add?a=10&b=5
+GET/sub?a=10&b=5
+GET/multiply?a=10&b=5
